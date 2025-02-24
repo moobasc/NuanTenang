@@ -1,3 +1,3 @@
-authUserIds = {
+allowedUserIds = {
   "699504"
 }
